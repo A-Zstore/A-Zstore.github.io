@@ -1,0 +1,137 @@
+/* animations */
+.im2{
+  margin-right: 30px;
+  margin-left: 30px;
+  width: 20px;
+  border-radius: 80%;
+  transition-duration: 2.5s;
+  transition-property: all;
+}
+.im2:hover{
+  margin-right: 60px;
+  margin-left: 60px;
+  width: 50px;
+}
+.im3:hover{
+  margin-right: 60px;
+  margin-left: 60px;
+  width: 50px;
+}
+.im1:hover{
+  margin-right: 60px;
+  margin-left: 60px;
+  width: 50px;
+}
+.im3{
+  margin-right: 30px;
+    width: 20px;
+    border-radius: 80%;
+    transition-duration: 2.5s;
+    transition-property: all;
+}
+.im1{
+  margin-left: 31px;
+    width: 20px;
+    border-radius: 80%;
+    transition-duration: 2.5s;
+    transition-property: all;
+}
+
+.fpass{
+  margin-top: 14px;
+}
+.login{
+  align-items: center;
+  position: relative;
+  left: 450px;
+  top:160px;
+  width: auto;
+}
+.img{
+width: 30px;
+padding: 0px 5px 10px 10px;
+position: relative;
+right: -27px;
+bottom: -17px;
+}
+a{
+text-decoration: none;
+color: gray;
+}
+a:hover{
+  color: darkgray;
+}
+.log{
+border: 1px white solid ;
+width : 200px;
+height: 35px;
+border-radius:120px 120px ;
+background-color: #007ac3;
+font-weight: 600;
+color: white;
+}
+.log:hover{
+  background-color: #02a0ff;
+}
+h3{
+  color: #007ac3;
+}
+span{
+  font-size: 9px;
+  color: gray;
+}
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+    font-family: 'Akshar', sans-serif;
+    width: fit-content;
+    background-image: url("../images/lucas-ludwig-DuODwM8zQ6E-unsplash.jpg");
+}
+h1{
+  color: #007ac3;
+}
+
+.unameicon [type=email]{
+width: 165px;
+border: solid white 1px;
+border-radius:10px 10px ;
+height: 20px;
+outline: none;
+}
+.pasicon [type=password]{
+border: solid white 1px;
+border-radius:10px 10px ;
+width: 165px;
+height: 20px;
+outline: none
+}
+.button{
+  border: solid white 1px;
+  border-radius:120px 120px ;
+  width: 200px;
+  height: 35px;
+  background-color: #007ac3;
+  color: white;
+  font-weight: 600;
+}
+.button:hover{
+  background-color: #02a0ff;
+}
+.new{
+  position: relative;
+  left:785px;
+  bottom: 120px;
+  text-align: center;
+  width: 220px;
+}
+.new p{
+  font-size: 14px;
+  color: gray;
+}
+.new p1{
+  font-size: 14px;
+  color: gray;
+}
+form{
+  text-align: center;
+}
